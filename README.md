@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 ## This is the README for your extension "exilej"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
@@ -11,3 +12,7 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# ExileJ
+Compile and Execute Java in Visual Studio Code
+>>>>>>> 591e8ea87c7759ceb9f302eb00347d6e3c7331ce
